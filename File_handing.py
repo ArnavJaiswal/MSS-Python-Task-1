@@ -1,5 +1,5 @@
 # open and read the file
-file_path = "/Users/kirthijaiswal/Documents/File Handling/product_descriptions.txt"
+file_path = "/Users/kirthijaiswal/Documents/File Handling/product_descriptions.txt" #defining the file path
 with open(file_path, "r") as file:
     descriptions = file.readlines()
 
