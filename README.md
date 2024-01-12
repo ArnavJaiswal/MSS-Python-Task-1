@@ -1,7 +1,5 @@
 # MSS-Python-Task-1
 
-  # MSS-Python-Task-1
-
   1. Data Types and Slicing:
 I created a list referred to as mixed_data with a mix of integers, strings, and floats. Slicing techniques had been implemented to:
 
